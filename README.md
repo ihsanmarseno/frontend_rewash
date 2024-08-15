@@ -3,9 +3,9 @@
 
 ## Deskripsi
   Frontend todo app memiliki fitur cread, read, update, dan delete, serta update status. Teknologi yang digunakan adalah Flutter sebagai frameworknya dan RiverPod sebagai state management nya, untuk Repository Backend nya ada dibawah sini.
-  ``bash
+  ```bash
   https://github.com/ihsanmarseno/backend-rewash-test
-  ``
+  ```
   
 ## Teknologi
   1. Flutter
